@@ -127,7 +127,7 @@ const links = [
 
 // markup
 const IndexPage = () => {
-  return <p>Hello 2</p>
+  return <p>Hello 3</p>
 }
 
 export default IndexPage
